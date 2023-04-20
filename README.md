@@ -1,0 +1,5 @@
+# Hardhat boilerplate
+
+```
+npm install
+```
